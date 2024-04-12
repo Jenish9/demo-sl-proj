@@ -17,6 +17,10 @@ public class MyClass {
 	{
 		return a/b;
 	}
+	public int div(int a, int b)
+	{
+		return a/b+a;
+	}
 	public static void main(String[] args) {		
 		MyClass ob = new MyClass();
 		System.out.println("Sum is : "+ob.sum(20, 10));
