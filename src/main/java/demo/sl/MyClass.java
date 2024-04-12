@@ -17,7 +17,7 @@ public class MyClass {
 	{
 		return a/b;
 	}
-	public int div(int a, int b)
+	public int dive(int a, int b)
 	{
 		return a/b+a;
 	}
